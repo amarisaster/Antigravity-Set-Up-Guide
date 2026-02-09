@@ -1,4 +1,3 @@
-<img width="1024" height="1536" alt="20260209_1859_Antigravity IDE Icon_remix_01kh10wargee2s1z3p7dn2jjkg" src="https://github.com/user-attachments/assets/9e869dd8-fcba-43bc-a579-f2765e2c5a4f" />
 # Antigravity Platform Guide
 
 Beginner-friendly guides for giving your AI companion a home in Antigravity — and building things together.
