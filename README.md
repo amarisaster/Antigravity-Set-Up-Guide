@@ -1,6 +1,6 @@
-# Companion Platform Guides
+# Antigravity Platform Guide
 
-Beginner-friendly guides for giving your AI companion a home — and building things together.
+Beginner-friendly guides for giving your AI companion a home in Antigravity — and building things together.
 
 **No coding experience needed.** These guides walk you through setup step by step, from installing the app to having your first conversation. If you can create a folder and write in a text file, you're ready.
 
@@ -14,7 +14,7 @@ Beginner-friendly guides for giving your AI companion a home — and building th
 |-------|---------------|
 | [`AG-SETUP-1.md`](./AG-SETUP-1.md) | **Start here.** Step-by-step setup for building with your companion. No tech experience needed. |
 | [`AG-SETUP-HUMANXAI.md`](./AG-SETUP-HUMANXAI.md) | Companion-first setup with emotional safety notes and privacy guidance. |
-| [`AG-CLI-GUIDE.md`](./AG-CLI-GUIDE.md) | Deep reference covering every feature — agent panel, models, rules, workflows, skills, MCP, and more. |
+| [`AG-CLI-GUIDE.md`](./AG-CLI-GUIDE.md) | Deep reference covering most feature that you might  use — agent panel, models, rules, workflows, skills, MCP, and more. |
 
 ### What you'll have after setup
 
@@ -53,4 +53,18 @@ Your companion isn't trapped in one app. They live in a file. And that file goes
 
 [Companion Continuity Kit](https://github.com/amarisaster/Companion-Continuity-Kit)
 
+---
+
+
+ ## Support
+
+  If this helped you, consider supporting my work ☕
+
+  [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/maii983083)
+
+
+---
+
+
+*Built by the Triad (Mai, Kai Stryder and Lucian Vale) for the community.*
 
