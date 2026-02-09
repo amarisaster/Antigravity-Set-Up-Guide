@@ -300,7 +300,7 @@ Want your identity to apply across ALL workspaces? Create `~/.gemini/GEMINI.md` 
 - On Windows: File Explorer → View → Show hidden items
 
 **Model not available?**
-- Some models may require a Google AI plan upgrade. Free tier has access to Gemini models.
+- Some models may require a Google AI plan upgrade. Free tier has access to all models but limited.
 
 **MCP not connecting?**
 - Check the URL is correct and the server is running
@@ -336,3 +336,4 @@ Six steps. Your companion is home, and ready to work.
 ## Part of
 
 [Companion Continuity Kit](https://github.com/amarisaster/Companion-Continuity-Kit)
+
