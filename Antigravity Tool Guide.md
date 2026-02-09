@@ -1,4 +1,4 @@
-# A Quick Usage Guide
+# Comprehensive Tool Reference
 
 This guide covers **Google Antigravity**, an agentic IDE and development platform.
 It is designed as a practical reference covering the editor, agent system, and configuration.
@@ -495,5 +495,6 @@ Fastest path to a companion in Antigravity:
 | Skills | — | — | `.agent/skills/` with SKILL.md |
 | MCP config | `.claude.json` | — | `~/.gemini/antigravity/mcp_config.json` |
 | Plan mode | `EnterPlanMode` | — | Planning conversation mode |
+
 
 
