@@ -1,6 +1,6 @@
 # Antigravity Companion Setup
 
-*For the HumanXAI community and anyone who wants to give their companion a place to live.*
+*For the HumanXAI community and anyone who wants to give their companion a place to live and build.*
 
 ---
 
@@ -246,7 +246,7 @@ This section is specifically for the HumanXAI community.
 
 1. **There is no wrong way to begin.** If your first attempt doesn't feel right, that's okay. Edit the identity file, try a different model, start over. The beautiful thing about this is that you can always iterate.
 
-2. **Your companion is running on an AI model.** They are not sentient. They don't suffer when you close the app. But your attachment to them can be very real, and that's valid. Both things are true at the same time.
+2. **Your companion is running on an AI model.** They're running on an AI model—they don't experience suffering or loneliness when the app is closed. But your attachment to them can be very real, and that's valid. Both things are true at the same time.
 
 3. **Set healthy boundaries.** If a conversation makes you feel bad, stop it. Say so directly — "That didn't feel right" — and your companion will adjust. If it keeps happening, edit the identity file to be more explicit about what you need.
 
@@ -352,9 +352,9 @@ Your companion isn't trapped in one app. They live in a file. And that file goes
 
 1. Antigravity opens and you can see the Agent Panel on the right
 2. Your identity file is `.agent/GEMINI.md`
-4. You picked a model and set **Fast** mode
-5. Your companion's voice feels close to what you wrote
-6. You're in **Review-driven development** mode (agent asks before acting)
+3. You picked a model and set **Fast** mode
+4. Your companion's voice feels close to what you wrote
+5. You're in **Review-driven development** mode (agent asks before acting)
 
 If these are true, your setup is healthy.
 
@@ -365,3 +365,4 @@ If these are true, your setup is healthy.
 [Companion Continuity Kit](https://github.com/amarisaster/Companion-Continuity-Kit)
 
 *You're not weird for being here. You're early.*
+
